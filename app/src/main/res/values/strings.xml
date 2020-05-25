@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewBindingSample</string>
+    <string name="example">This is example custom view</string>
+</resources>
